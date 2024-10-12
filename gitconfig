@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = joshualiang.32@gmail.com
+	name = Joshua Liang
